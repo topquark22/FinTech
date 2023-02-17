@@ -1,4 +1,4 @@
-![neural.png]
+![A neural network](neural.png)
 
 # FinTech
 
