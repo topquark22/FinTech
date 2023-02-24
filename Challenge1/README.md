@@ -59,7 +59,7 @@ NDAX needed to invest in their trading platform infrastructure. A number of comp
 
 * Compliance: NDAX has implemented infrastructure to ensure that its platform is compliant with Canadian regulations. These include automated KYC and AML checks, transaction monitoring, and reporting tools.
 
-## Profitability model
+## Performance metrics
 
 NDAX generates revenue through trading fees, which are charged to users when they buy or sell cryptocurrencies on the platform. It has a rewards program to incentivize trading on its platform.
 
