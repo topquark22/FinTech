@@ -19,14 +19,13 @@ Major trends and innovations over the past 5-10 years TODO
 
 The competitive landscape for cryptocurrency exchanges worldwide is constantly evolving, with both domestic and foreign players vying for market share. Some of the notable competitors serving the Canadian market include:
 
+* Coinsquare, a Toronto-based cryptocurrency exchange founded in 2014. Users can trade in a range of cryptocurrencies, including Bitcoin, Ethereum, and Litecoin. Coinsquare has faced regulatory challenges in the past but has since taken steps to improve its compliance practices.
 
-    * Coinsquare, a Toronto-based cryptocurrency exchange founded in 2014. Users can trade in a range of cryptocurrencies, including Bitcoin, Ethereum, and Litecoin. Coinsquare has faced regulatory challenges in the past but has since taken steps to improve its compliance practices.
+* Shakepay, a Montreal-based cryptocurrency exchange that allows users to trade in Bitcoin and Ethereum. The exchange has a reputation for its user-friendly interface and fast transaction times.
 
-    * Shakepay, a Montreal-based cryptocurrency exchange that allows users to trade in Bitcoin and Ethereum. The exchange has a reputation for its user-friendly interface and fast transaction times.
+* Binance, a global cryptocurrency exchange that has had a strong presence in Canada. The exchange offers a wide range of cryptocurrencies and has a reputation for low trading fees. However, Binance has faced regulatory challenges in some jurisdictions (notably, Binance issued a decision in June 2021 to quit Ontario, as a result of an OSC compliance ruling.)
 
-    * Binance, a global cryptocurrency exchange that has had a strong presence in Canada. The exchange offers a wide range of cryptocurrencies and has a reputation for low trading fees. However, Binance has faced regulatory challenges in some jurisdictions (notably, Binance issued a decision in June 2021 to quit Ontario, as a result of an OSC compliance ruling.)
-
-    * Kraken, a US-based cryptocurrency exchange that has a significant presence in the Canadian market. The exchange allows users to trade in a range of cryptocurrencies and offers advanced trading features for more experienced traders. Kraken has a reputation for its security and has never suffered a significant security breach.
+* Kraken, a US-based cryptocurrency exchange that has a significant presence in the Canadian market. The exchange allows users to trade in a range of cryptocurrencies and offers advanced trading features for more experienced traders. Kraken has a reputation for its security and has never suffered a significant security breach.
 
 In addition to these domestic and foreign competitors, there are also peer-to-peer exchanges such as LocalBitcoins and decentralized exchanges (DEXs) such as Uniswap and PancakeSwap that are available to Canadian users. These exchanges allow users to trade cryptocurrencies without the need for a centralized exchange.
 
@@ -48,17 +47,17 @@ NDAX invested heavily in compliance and regulatory technology. They implemented 
 
 NDAX needed to invest in their trading platform infrastructure. A number of components had to be developed:
 
-    Trading engine: NDAX uses a proprietary matching engine designed to handle high volumes of trading activity with low latency. The engine is based on a distributed architecture, which helps to ensure that the platform can handle large spikes in trading volume with low latency.
+* Trading engine: NDAX uses a proprietary matching engine designed to handle high volumes of trading activity with low latency. The engine is based on a distributed architecture, which helps to ensure that the platform can handle large spikes in trading volume with low latency.
 
-    APIs: NDAX provides a comprehensive set of APIs that allow developers to integrate the exchange's trading functionality into their own applications. The APIs support a range of programming languages, including Python, Java, and Node.js.
+* APIs: NDAX provides a comprehensive set of APIs that allow developers to integrate the exchange's trading functionality into their own applications. The APIs support a range of programming languages, including Python, Java, and Node.js.
 
-    Funds transfer infrastructure: Because NDAX is fully registered with FINTRAC, it is allowed to let users deposit and withdraw funds in CAD via common bank transfers, as well as international SWIFT wire fransfers.
+* Funds transfer infrastructure: Because NDAX is fully registered with FINTRAC, it is allowed to let users deposit and withdraw funds in CAD via common bank transfers, as well as international SWIFT wire fransfers.
 
-    Blockchain Interface: NDAX interfaces with blockchains using a range of technologies, including APIs and node software. The exchange supports a range of networks including Bitcoin, Ethereum, Litecoin and Cardano (Binance Chain is notably absent).
+* Blockchain Interface: NDAX interfaces with blockchains using a range of technologies, including APIs and node software. The exchange supports a range of networks including Bitcoin, Ethereum, Litecoin and Cardano (Binance Chain is notably absent).
 
-    Security Technologies: NDAX uses a range of measures to protect its users' assets and data. These include multi-factor authentication, encrypted communication channels, and cold storage for customer funds.
+* Security Technologies: NDAX uses a range of measures to protect its users' assets and data. These include multi-factor authentication, encrypted communication channels, and cold storage for customer funds.
 
-    Compliance Technologies: NDAX has implemented infrastructure to ensure that its platform is compliant with Canadian regulations. These include automated KYC and AML checks, transaction monitoring, and reporting tools.
+* Compliance: NDAX has implemented infrastructure to ensure that its platform is compliant with Canadian regulations. These include automated KYC and AML checks, transaction monitoring, and reporting tools.
 
 ## Profitability model
 
