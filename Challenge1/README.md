@@ -14,8 +14,7 @@ NDAX is a privately held company, and therefore information about its ownership 
 
 This company operates in the Blockchain/Cryptocurrency space.
 
-Major trends and innovations over the past 5-10 years TODO
-
+This space exploded since 2014, when Bitcoin became the first instrument available that solved the double-spend problem using Proof of Work (PoW). Since that time, the cryptocurrency landscape has exploded with numerous alt-coins, the largest being Ethereum, as it offers smart contract functionality. Since then, literally thousands of alternative blockchains have arisen.
 
 The competitive landscape for cryptocurrency exchanges worldwide is constantly evolving, with both domestic and foreign players vying for market share. Some of the notable competitors serving the Canadian market include:
 
@@ -67,9 +66,11 @@ NDAX charges listing fees to issuers of new cryptocurrencies.
 
 In addition, NDAX also generates revenue through its OTC trading desk, which allows users to trade large volumes of cryptocurrencies outside of the regular order book. The OTC trading desk charges a fee for its services, which is negotiated on a case-by-case basis.
 
-NDAX has also introduced value-added services such as NDAX Academy (an educational program).
+NDAX has also introduced value-added services such as NDAX Academy (an educational program). 
 
 ## Performance metrics
+
+As NDAX is a private company, and it was impossible to determine exactly which performance metrics they use, it is possible to assume that they use a selection of the following performance metrics, that are standard in the industry:
 
 * Customer Acquisition Cost (CAC): This metric measures how much it costs to acquire a new customer. This includes marketing and sales expenses, as well as other related costs.
 
@@ -90,16 +91,8 @@ NDAX has also introduced value-added services such as NDAX Academy (an education
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilise?
-
-* Why are these technologies appropriate for your solution?
-
+* If I were to advise the company, I would suggest that they offer a wider range of cryptocurrencies. It would be a good idea to drop listing fees, to encourage smaller, new players to enter the market. This would serve users who wish to put a small amount (few 100$) into each of a bunch of fledgling cryptocurrencies, in the hope of obtaining 100x- 1000x+ gains on just one of them. This could benefit the exchange by increasing its customer base.
 
 ## Outlook
 
 As of 2023 and going forward, there is likely to be increasing demand for cryptocurrency trading in Canada. In a bullish economic forecast, NDAX is likely to see increased trading volumes as more investors look to invest in cryptocurrencies. In a bearish forecast, NDAX may see a decrease in trading volumes and potentially a decline in revenue. However, barring any unforeseen breach, public relations disaster, or drastic change in government regulations, the outlook for NDAX appears positive for 2023 and beyond.
-
